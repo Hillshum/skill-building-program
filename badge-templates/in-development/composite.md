@@ -18,17 +18,17 @@
 
 **Earn 3 of these micro-badges:**
 
-- Jello eating
-- Book reading
-- Cloud watching
-- Name pronouncing
-- Human talking-to
+- [Jello eating](link)
+- [Book reading](link)
+- [Cloud watching](link)
+- [Name pronouncing](link)
+- [Human talking-to](link)
 
 
 **Earn 1 of these micro-badges:**
 
-- Phone using
-- Interweb browsing
+- [Phone using](link)
+- [Interweb browsing](link)
 
 
 -----
