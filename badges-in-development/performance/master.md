@@ -1,16 +1,16 @@
-{Skill Category} - Master Badge
+Web Performance - Master Badge
 
-![{Skill Category} - Master Badge](http://familysearch.org/badge.png "{Skill Category} Master badge")
+![Web Performance - Master Badge](http://familysearch.org/badge.png "Web Performance Master badge")
 
 
 -----
 
 
 ## Goal
-- You have demonstrated that you can mentor & teach others how to increase {Skill Category}.
-- You have demonstrated that you have an master-level understanding and skill in {Skill Category}
-- You have sought out and obtained newly relevant & advanced knowledge of {Skill Category}
-- You have completed project work that furthers our discipline in {Skill Category}
+- You have demonstrated that you can mentor & teach others how to increase Web Performance.
+- You have demonstrated that you have an master-level understanding and skill in Web Performance
+- You have sought out and obtained newly relevant & advanced knowledge of Web Performance
+- You have completed project work that furthers our discipline in Web Performance
 
 
 -----
